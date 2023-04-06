@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="7" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-07T17:16:22 EET" name="Default Suite" finished-at="2023-02-07T17:16:26 EET" duration-ms="4307">
+    <groups>
+    </groups>
+    <test started-at="2023-02-07T17:16:22 EET" name="RestAccurance" finished-at="2023-02-07T17:16:26 EET" duration-ms="4307">
+      <class name="TestCase.RestTestITI">
+        <test-method signature="GetAllUsersAfterdeleteuser()[pri:0, instance:TestCase.RestTestITI@1b083826]" started-at="2023-02-07T17:16:22 EET" name="GetAllUsersAfterdeleteuser" finished-at="2023-02-07T17:16:26 EET" duration-ms="4210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersAfterdeleteuser -->
+      </class> <!-- TestCase.RestTestITI -->
+    </test> <!-- RestAccurance -->
+  </suite> <!-- Default Suite -->
+</testng-results>
